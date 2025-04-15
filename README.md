@@ -2,9 +2,6 @@
 
 A simple Scheme-like interpreter implemented in Rust, focusing on core Lisp features and demonstrating custom syntax extensions for arrays and maps.
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#) <!-- Replace with actual build status badge if you set up CI -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Or Apache-2.0 -->
-
 ## Overview
 
 This project is an educational implementation of a Lisp dialect resembling Scheme. It's built using Rust and includes:
