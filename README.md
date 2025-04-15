@@ -1,5 +1,9 @@
 # Rusty Scheme
 
+_Most of the code in this repo was written by Gemeni 2.5 Pro Preview 03-25.  Some human edits have been made to fix bugs and code the AI left out._
+
+---
+
 A simple Scheme-like interpreter implemented in Rust, focusing on core Lisp features and demonstrating custom syntax extensions for arrays and maps.
 
 ## Overview
