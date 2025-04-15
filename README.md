@@ -1,6 +1,6 @@
 # Rusty Scheme
 
-_Most of the code in this repo was written by Gemeni 2.5 Pro Preview 03-25.  Some human edits have been made to fix bugs and code the AI left out._
+_Most of the code in this repo was written by Gemini 2.5 Pro Preview 03-25.  Some human edits have been made to fix bugs and code the AI left out.  Incidentally, the tests, also written by the AI, don't pass._
 
 ---
 
